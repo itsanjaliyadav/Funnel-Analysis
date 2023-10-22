@@ -1,17 +1,15 @@
-Project Summary:
+Project Summary: Swiggy Funnel Analysis
 
-In this project, I created an advanced Excel dashboard for a leading food e-commerce company's analytics team. The goal was to assist business stakeholders in making data-driven decisions by providing them with a comprehensive and interactive view of the company's performance.
+In this project, I conducted a thorough analysis of the company's performance for the year 2019. The aim was to unearth key insights into Swiggy's operations and identify opportunities for improvement using data from the 'Funnel Case Study Data' workbook, consisting of three essential worksheets.
 
-I meticulously collated data at the order_id level and utilised calculated fields to derive key business metrics such as Average Order Value (AOV), Discount Percentage, Average Rating, and Average Delivery Time. These metrics were critical in assessing and presenting the company's performance.
+Key Tasks and Achievements:
 
-The Excel workbook comprises four distinct sheets, all interconnected through slicers for easy city and restaurant selection. The sheets are structured as follows:
+Order Fluctuations: I determined fluctuations in the number of daily orders, filling in the remaining columns in the 'Session Details' worksheet as required. I also identified notable dates with order highs and lows in comparison to the same day the previous week, offering valuable insights into customer behaviour.
 
-Overall Numbers: This sheet presents a high-level overview of the company's performance, offering insights into revenue trends, order counts, and the impact of discounts. Month-wise revenue and order tables, along with visual representations of city and restaurant-wise orders, were included.
+Traffic Analysis: I scrutinized changes in web traffic compared to the previous week, investigating any potential shifts in traffic sources using the 'Channel Wise Traffic' sheet. This helped in understanding the driving factors behind changes in user engagement.
 
-City-wise Dashboard: Focusing on city-specific insights, this sheet displays revenue and order trends, average delivery times, discount percentages, and restaurant ratings for each city.
+Conversion Analysis: By examining overall conversion rates and breaking them down into smaller components (L2M, M2C, C2P, P2O), I identified which specific conversions exhibited fluctuations. I then formulated hypotheses to explain these fluctuations, considering how various factors influenced user behaviour.
 
-Restaurant-wise Dashboard: Here, we delve into restaurant-specific performance, showcasing revenue and order trends, average delivery times, discount percentages, and restaurant ratings for each individual restaurant.
+Hypothesis Validation: To validate the hypotheses, I drew from data available in the 'Supporting Data' sheet, providing a deeper understanding of the root causes behind conversion rate fluctuations.
 
-Report to Manager: This final sheet is dedicated to summarising findings and insights obtained from the graphs. It provides a concise narrative of the data, enabling the management team to make informed decisions.
-
-By creating this sophisticated dashboard, I have equipped our business stakeholders with a powerful tool that empowers them to understand the company's performance at a glance and make data-driven decisions more effectively.
+My assignment submission consisted of a comprehensive Funnel Analysis Report, which not only presented findings and insights but also offered explanations for order fluctuations, variations in web traffic, and changes in conversion rates.
